@@ -3,7 +3,7 @@
 
 iKnow is a social media knowledge sharing platform built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to share and discover valuable insights, ideas, and information on various topics. Whether you're a student, professional, or enthusiast, iKnow provides a platform to connect and learn from others in a collaborative environment.
 
-![iKnow Screenshot](./screenshot.png)
+![iKnow Screenshot](./screenshot.PNG)
 
 ## Features
 

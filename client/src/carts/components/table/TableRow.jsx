@@ -47,6 +47,7 @@ const TableRow = ({ product, amount, onRemove, onUpdate }) => {
             component="img"
             alt={product.image.alt}
             image={product.image.url}
+            sx={{ maxHeight: 150 }}
           />
         </TableCell>
         <TableCell align="center">{product.price}</TableCell>

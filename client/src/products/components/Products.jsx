@@ -19,7 +19,7 @@ const Products = ({ products, onDelete, onWish }) => {
 
   return (
     <>
-      <Grid container spacing={2}>
+      <Grid container spacing={4}>
         {transition((style, product) => (
           <Grid item key={product._id} pb={2} xs={12} sm={6} md={4} lg={3}>
             <animated.div style={style}>

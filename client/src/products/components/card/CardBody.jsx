@@ -23,10 +23,10 @@ const CardBody = ({ product }) => {
         <Grid container spacing={0}>
           <Grid item xs={12}>
             <CardHeader
-              sx={{ p: 0, m: 0 }}
+              sx={{ p: 1, m: 0, height: 120 }}
               title={
                 <Typography
-                  variant="h4"
+                  variant="h5"
                   align="center"
                   color={"text.secondary"}
                   fontWeight={700}
@@ -36,7 +36,7 @@ const CardBody = ({ product }) => {
               }
               subheader={
                 <Typography
-                  variant="h6"
+                  variant="body1"
                   align="center"
                   color={"text.secondary"}
                   fontWeight={600}
