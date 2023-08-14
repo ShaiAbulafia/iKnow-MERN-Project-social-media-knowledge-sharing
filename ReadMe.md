@@ -115,6 +115,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Feel free to contact us at [shaiabulafia12@gmail.com](mailto:shaiabulafia12@gmail.com) for any questions or feedback. We hope you enjoy using iKnow for sharing and gaining knowledge!
 
-```
 
-```
