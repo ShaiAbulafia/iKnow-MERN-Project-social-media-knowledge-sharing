@@ -1,0 +1,21 @@
+const initialSignupForm = {
+  first: "",
+  middle: "",
+  last: "",
+  phone: "",
+  email: "",
+  password: "",
+  url: "",
+  alt: "",
+  aboutMe: "",
+  state: "",
+  country: "",
+  city: "",
+  street: "",
+  houseNumber: 0,
+  zip: 0,
+  grandfatherName: "",
+  firstSchool: "",
+  motherLastName: "",
+};
+export default initialSignupForm;

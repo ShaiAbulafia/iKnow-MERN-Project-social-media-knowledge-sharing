@@ -1,0 +1,25 @@
+const ROUTES = {
+  ROOT: "/",
+  SIGNUP: "/signup",
+  LOGIN: "/login",
+  USER_PROFILE: "/user",
+  EDIT_USER: "/edit_user",
+  ABOUT: "/about",
+  PRODUCTS: "/products",
+  CREATE_PRODUCT: "/add_product",
+  WISH_PRODUCTS: "/favorites_products",
+  EDIT_PRODUCT: "/edit_product",
+  CART: "/cart",
+  ORDERS: "/orders",
+  ORDERS_CRM: "/orders_CRM",
+  POSTS: "/posts",
+  CREATE_POST: "/create_posts",
+  EDIT_POST: "/edit_post",
+  ADMIN: "/admin",
+  RESET_PASS: "/reset_password",
+  NOTIFICATIONS: "/notifications",
+  CONTACTS: "/contacts",
+  CREATE_CONTACTS: "/new_contact",
+};
+
+export default ROUTES;
