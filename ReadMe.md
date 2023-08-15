@@ -11,9 +11,12 @@ iKnow is a social media knowledge sharing platform built using the MERN stack (M
 - **Profile Creation:** Users can create and customize their profiles.
 - **Post Sharing:** Share posts containing text, images, or links.
 - **Comments and Discussion:** Engage in discussions through comments on posts.
-- **Upvoting and Downvoting:** Users can express their opinions on posts and comments.
+- **Rating:** Users can express their opinions on posts and comments.
 - **Search Functionality:** Easily find posts and users with the search feature.
 - **Categories and Tags:** Organize posts by categories and add relevant tags.
+- **Online store:** Shopping cart and checkout process.
+- **Orders tracker:** Track your orders and get notifications on update.
+- **Admin pannel:** For managing products, orders, and users.
 - **Responsive Design:** Access the platform seamlessly on various devices.
 
 ## Installation
@@ -81,11 +84,11 @@ iKnow is a social media knowledge sharing platform built using the MERN stack (M
 
 4. **Sharing Knowledge:** Create your own posts by clicking the "New Post" button and providing relevant content.
 
-5. **Engagement:** Engage in discussions by commenting on posts and upvoting/downvoting posts and comments.
+5. **Engagement:** Engage in discussions by commenting on posts and rating posts and comments.
 
-6. **Search and Discover:** Use the search bar to find specific posts or users based on keywords or tags.
+6. **Search and Discover:** Use the search bar to find specific posts or products based on keywords or tags.
 
-7. **Categories and Tags:** Explore posts organized by categories and discover content through relevant tags.
+7. **Categories and Tags:** Explore posts and discover content through relevant tags.
 
 8. **Responsive Design:** Enjoy a seamless experience on different devices, including desktops, tablets, and mobile phones.
 
@@ -114,5 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ---
 
 Feel free to contact us at [shaiabulafia12@gmail.com](mailto:shaiabulafia12@gmail.com) for any questions or feedback. We hope you enjoy using iKnow for sharing and gaining knowledge!
-
-

@@ -36,7 +36,6 @@ router.post("/", async (req, res) => {
     const { error } = validateRegistration(user);
     if (error)
       return handleError(res, 400, `Joi Error: ${error.details[0].message}`);
-
     user = normalizeUser(user);
     user.password = generateUserPassword(user.password);
     user = await registerUser(user);
